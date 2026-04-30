@@ -1,6 +1,6 @@
 /*
 hash_word.c -- A hash word calculator utility
-"Homestuck" and all of its character are Andrew Hussie's property (2009-Ongoing). No copyright infringement intended.
+"Homestuck" and all of its characters are Andrew Hussie's property (2009-Ongoing). No copyright infringement intended.
 
 MIT License
 
