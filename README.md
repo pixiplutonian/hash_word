@@ -10,7 +10,7 @@ Licensed under MIT. Do whatever you want; I do not care.
 Simply download the .exe binary from the Releases section. Run it in the terminal.
 
 ## How to compile
-1. Copy the repository or downloadd the source code .zip archive from the Releases section.
+1. Copy the repository or download the source code .zip archive from the Releases section.
 2. Install MSYS2 and GCC via UCRT64 environment. MSYS2 themselves provide a simple tutorial for just that on their main page: https://www.msys2.org/
 3. In MSYS2 or PowerShell (if environmental variables of your OS are configured to work with MSYS2), navigate to the source tree directory.
 4. Compile using this command: ```gcc -std=c23 -Wall -Wextra -O2 hash_word.c -o hash_word.exe```
